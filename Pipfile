@@ -7,7 +7,7 @@ verify_ssl = true
 autopep8 = "*"
 
 [packages]
-djangorestframework = "==3.10"
+djangorestframework = "==3.11.2"
 django = "==2.2.2"
 python-dotenv = "*"
 djangorestframework-simplejwt = "*"
